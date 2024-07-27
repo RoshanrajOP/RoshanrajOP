@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhyMThhYTJqaXIyNHZtamJrd3hlazJ2anNwYnl6YnJ6aWM0MWpxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)](https://github.com/RoshanrajOP)
+[![MasterHead]](https://github.com/RoshanrajOP)
 
 
 <h1 align="center">Hi 👋, I'm Roshan Raj</h1>
